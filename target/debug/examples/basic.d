@@ -1,1 +1,0 @@
-/Users/gabrielerizzo/Desktop/wavegen/target/debug/examples/basic: /Users/gabrielerizzo/Desktop/wavegen/examples/basic.rs /Users/gabrielerizzo/Desktop/wavegen/src/generator.rs /Users/gabrielerizzo/Desktop/wavegen/src/lib.rs /Users/gabrielerizzo/Desktop/wavegen/src/waveform.rs
